@@ -1,0 +1,51 @@
+-->Cloud Computing - totally based on services --servers
+-->server -computer -->it gives the services.
+-->client -computer -->services are taken by client
+-->work group -->in this group any one can act as server and client. eg:-sharing a file -->everyone can share it and everyone can access it.
+-->some of the cloud vendors:-
+     AWS
+     AZURE
+     GOOGLE CLOUD
+     ORACLE CLOUD
+     RACK SPACE 
+     ALIBABA CLOUD
+-->we are going to work with servers in the cloud.
+-->cloud -- the  more resoruces -the less u pay.
+-->web server --website -- aec.edu.in
+-->server layers:
+     website content.
+     software(apache , mean ,react,--web software)
+     operating system of its own version
+     hardware(cpu,ram,storage)
+=================================================================================================================================
+-->ON-PERMISES SERVER:-
+  =====================
+ -->the which is maintained within the premises is called on-permises server(eg:- servers in aditya are maintained within the college)
+-->every server is a Virtual Machine.
+-->Physical Server --100+ virtual machines based on configuration -->rich persons will buy this server
+======================================================================================================================================
+--> CLOUD CHARACTERISTICS:
+================================
+            there are 5 characteristics
+                 -->on-demand self service
+                 -->resoruce pooling --cloud point
+                 -->broad network access
+                 -->elasticity --extensions or replicas.
+                 -->metered services-pay as you go
+====================================================
+-->CLOUD MODELS:-
+========================
+  -->public cloud -->Any one can use this cloud -->aws,azure,google cloud ,oracle cloud
+  -->private cloud -->it is only applicable for that particulary area people and they can only use that cloud.(eg:-servers in aditya are accessed by aditya students only)
+  -->community cloud -public 
+  -->hybrid cloud --private and public.
+=======================================
+-->CLOUD SERVICES:-
+======================================
+-->Software as a service (SaaS)-->Software-as-a-Service (SaaS) is a way of delivering services and applications over the Internet.
+-->Platform as a service (PaaS)-->PaaS is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet
+-->Infrastructure as a service (IaaS)-->
+-->Anything/Everything as a service (XaaS)
+-->Function as a Service (FaaS)
+==================================================
+
