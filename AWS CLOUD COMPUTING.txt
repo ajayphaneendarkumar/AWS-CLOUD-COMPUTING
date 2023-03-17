@@ -48,4 +48,13 @@
 -->Anything/Everything as a service (XaaS)
 -->Function as a Service (FaaS)
 ==================================================
-
+global infrastructure:
+-------------------------------
+AWS regions geo location
+AWS availability zonez AZs min 2
+AWS Data centres min 2
+our resources
+======================================
+EC2-ECC-Elastic compute cloud
+EC2 instance - vm server
+amazon linux
