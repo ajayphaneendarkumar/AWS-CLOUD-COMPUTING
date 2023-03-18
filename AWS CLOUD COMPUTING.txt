@@ -55,6 +55,16 @@ AWS availability zonez AZs min 2
 AWS Data centres min 2
 our resources
 ======================================
+To Launch the Instance:-
+----------------------------
 EC2-ECC-Elastic compute cloud
 EC2 instance - vm server
 amazon linux
+===============================
+Commands in Mobaxtream edition:-
+===============================
+-->sudo su
+-->sudo apt-get update
+-->sudo apt-get install apache2
+-->cd /var/www/html -->index.html
+-->
