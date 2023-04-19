@@ -18,9 +18,10 @@
      operating system of its own version
      hardware(cpu,ram,storage)
 =================================================================================================================================
--->ON-PERMISES SERVER:-
+-->ON-PREMISES SERVER:-
   =====================
- -->the which is maintained within the premises is called on-permises server(eg:- servers in aditya are maintained within the college)
+ -->the server which is maintained within the premises is called on-permises server(eg:- servers in aditya are maintained within the college)
+--------------------------------------------------------------------------------------------------------------------------
 -->every server is a Virtual Machine.
 -->Physical Server --100+ virtual machines based on configuration -->rich persons will buy this server
 ======================================================================================================================================
@@ -55,16 +56,21 @@ AWS availability zonez AZs min 2
 AWS Data centres min 2
 our resources
 ======================================
-To Launch the Instance:-
-----------------------------
+deploymnet:-
+-------------------------
 EC2-ECC-Elastic compute cloud
 EC2 instance - vm server
 amazon linux
-===============================
-Commands in Mobaxtream edition:-
-===============================
--->sudo su
--->sudo apt-get update
--->sudo apt-get install apache2
--->cd /var/www/html -->index.html
--->
+=====================================================================
+VPC(virtual private cloud):-
+------------------------------
+-->by using vpc we can communicate with the user or group of users.
+-->vpn(virtual private network)
+-->To create VPC WE NEED TO SETUP FOLLOWING ONES:-
+      -->create vpc
+      -->create Subnets
+      -->create internet gateways
+      -->create Route Tables 
+-->s3(storage) bucket -->upload the floder and run the webapplication
+-->Load Balancer-->add two EC2 Instances
+-------------------------------------------------
