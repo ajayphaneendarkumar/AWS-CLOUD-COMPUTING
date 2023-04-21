@@ -45,7 +45,7 @@
 ======================================
 -->Software as a service (SaaS)-->Software-as-a-Service (SaaS) is a way of delivering services and applications over the Internet.
 -->Platform as a service (PaaS)-->PaaS is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet
--->Infrastructure as a service (IaaS)-->
+-->Infrastructure as a service (IaaS)
 -->Anything/Everything as a service (XaaS)
 -->Function as a Service (FaaS)
 ==================================================
@@ -70,7 +70,19 @@ VPC(virtual private cloud):-
       -->create vpc
       -->create Subnets
       -->create internet gateways
-      -->create Route Tables 
--->s3(storage) bucket -->upload the floder and run the webapplication
--->Load Balancer-->add two EC2 Instances
--------------------------------------------------
+      -->create Route Tables
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ S3(simple service storage bucket):-
+ ==========================================
+-->s3(simple service storage) bucket -->upload the floder and run the webapplication
+     -->after creating s3 bucket ,we need to create one file folder and then we need to upload our project file into that folder and we need to make every file as public using "make public by using ACLS(access contorl lists)".
+     -->In the next step copy that url and paste in new tab  our will be displayed.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LOAD BALANCER:-
+====================
+-->The main aim of Load-Balancer is to control the incoming Traffic and make sure of health checks , to control the traffic we need to add instances to the load balancer.
+-->Request timout->after how much time the instance is reporting
+-->interval -->after every 5 sec or 10 sec the instances will have health checks
+-->unhealthy checks
+-->healthy checks
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
