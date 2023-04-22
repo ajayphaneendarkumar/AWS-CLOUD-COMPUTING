@@ -43,9 +43,9 @@
 =======================================
 -->CLOUD SERVICES:-
 ======================================
--->Software as a service (SaaS)-->Software-as-a-Service (SaaS) is a way of delivering services and applications over the Internet.
--->Platform as a service (PaaS)-->PaaS is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet
--->Infrastructure as a service (IaaS)
+-->Software as a service (SaaS)-->Software-as-a-Service (SaaS) is a way of delivering services and applications over the Internet.(netflix,aha,hostar -->these are all related to saas.)
+-->Platform as a service (PaaS)-->PaaS is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet(sreverless services related to paas).
+-->Infrastructure as a service (IaaS)-->(EC2)
 -->Anything/Everything as a service (XaaS)
 -->Function as a Service (FaaS)
 ==================================================
