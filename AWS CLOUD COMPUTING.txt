@@ -1,4 +1,6 @@
 -->Cloud Computing - totally based on services --servers
+->what is cloud? 
+  --->cloud refers to the network of remote servers hosted/deployed on the internet that allows users to store,manage,access data and application over internet.
 -->server -computer -->it gives the services.
 -->client -computer -->services are taken by client
 -->work group -->in this group any one can act as server and client. eg:-sharing a file -->everyone can share it and everyone can access it.
