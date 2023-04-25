@@ -1,6 +1,4 @@
 -->Cloud Computing - totally based on services --servers
-->what is cloud? 
-  --->cloud refers to the network of remote servers hosted/deployed on the internet that allows users to store,manage,access data and application over internet.
 -->server -computer -->it gives the services.
 -->client -computer -->services are taken by client
 -->work group -->in this group any one can act as server and client. eg:-sharing a file -->everyone can share it and everyone can access it.
@@ -14,6 +12,7 @@
 -->we are going to work with servers in the cloud.
 -->cloud -- the  more resoruces -the less u pay.
 -->web server --website -- aec.edu.in
+===================================================================================
 -->server layers:
      website content.
      software(apache , mean ,react,--web software)
@@ -46,7 +45,7 @@
 -->CLOUD SERVICES:-
 ======================================
 -->Software as a service (SaaS)-->Software-as-a-Service (SaaS) is a way of delivering services and applications over the Internet.(netflix,aha,hostar -->these are all related to saas.)
--->Platform as a service (PaaS)-->PaaS is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet(sreverless services related to paas-->lamda comes under the platform as a sservice).
+-->Platform as a service (PaaS)-->PaaS is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet(sreverless services related to paas -->lamba comes under the paas).
 -->Infrastructure as a service (IaaS)-->(EC2)
 -->Anything/Everything as a service (XaaS)
 -->Function as a Service (FaaS)
@@ -63,7 +62,9 @@ deploymnet:-
 EC2-ECC-Elastic compute cloud
 EC2 instance - vm server
 amazon linux
-=====================================================================
+-->there are four regions for Ec2 Instances
+-->virtualization is the cloud concept related to pooling and sharing resources.
+=================================================================================================
 VPC(virtual private cloud):-
 ------------------------------
 -->by using vpc we can communicate with the user or group of users.
@@ -73,12 +74,15 @@ VPC(virtual private cloud):-
       -->create Subnets
       -->create internet gateways
       -->create Route Tables
+-->if we create two subnets one with public ip and other with private ip then use NAT to connect to the internet for updates.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
  S3(simple service storage bucket):-
  ==========================================
 -->s3(simple service storage) bucket -->upload the floder and run the webapplication
      -->after creating s3 bucket ,we need to create one file folder and then we need to upload our project file into that folder and we need to make every file as public using "make public by using ACLS(access contorl lists)".
      -->In the next step copy that url and paste in new tab  our will be displayed.
+-->we need to give unique for our bucket and it should contain small letters.
+-->By default we can Create 100 buckets in aws.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 LOAD BALANCER:-
 ====================
@@ -87,7 +91,8 @@ LOAD BALANCER:-
 -->interval -->after every 5 sec or 10 sec the instances will have health checks
 -->unhealthy checks
 -->healthy checks
+-->Elastic load balancing service
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 AUTO SCALING:-
-=====================
+=============================
 -->
