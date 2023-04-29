@@ -25,6 +25,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 -->every server is a Virtual Machine.
 -->Physical Server --100+ virtual machines based on configuration -->rich persons will buy this server
+-->CIMI stands for "cloud Infrastructure Management interface".
 ======================================================================================================================================
 --> CLOUD CHARACTERISTICS:
 ================================
