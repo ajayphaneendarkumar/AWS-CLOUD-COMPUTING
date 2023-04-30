@@ -2,6 +2,7 @@
 -->server -computer -->it gives the services.
 -->client -computer -->services are taken by client
 -->work group -->in this group any one can act as server and client. eg:-sharing a file -->everyone can share it and everyone can access it.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 -->some of the cloud vendors:-
      AWS
      AZURE
@@ -10,9 +11,9 @@
      RACK SPACE 
      ALIBABA CLOUD
 -->we are going to work with servers in the cloud.
--->cloud -- the  more resoruces -the less u pay.
+-->cloud -- the  more resoruces -the less u pay.-->cloud refers to network of servers hosted on internet that allows users to store ,manage and access data.
 -->web server --website -- aec.edu.in
-===================================================================================
+=================================================================================================================================================================
 -->server layers:
      website content.
      software(apache , mean ,react,--web software)
@@ -25,7 +26,6 @@
 --------------------------------------------------------------------------------------------------------------------------
 -->every server is a Virtual Machine.
 -->Physical Server --100+ virtual machines based on configuration -->rich persons will buy this server
--->CIMI stands for "cloud Infrastructure Management interface".
 ======================================================================================================================================
 --> CLOUD CHARACTERISTICS:
 ================================
@@ -66,8 +66,9 @@ amazon linux
 -->there are four regions for Ec2 Instances
 -->virtualization is the cloud concept related to pooling and sharing resources.
 =================================================================================================
-VPC(virtual private cloud):-
+AWS VPC(virtual private cloud):-
 ------------------------------
+-->it is a isolated section of AWS cloud where we can launch aws resoruces in a virtual network that wehave defined.
 -->by using vpc we can communicate with the user or group of users.
 -->vpn(virtual private network)
 -->To create VPC WE NEED TO SETUP FOLLOWING ONES:-
@@ -77,15 +78,16 @@ VPC(virtual private cloud):-
       -->create Route Tables
 -->if we create two subnets one with public ip and other with private ip then use NAT to connect to the internet for updates.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
- S3(simple service storage bucket):-
+ AWS S3(simple service storage bucket):-
  ==========================================
 -->s3(simple service storage) bucket -->upload the floder and run the webapplication
      -->after creating s3 bucket ,we need to create one file folder and then we need to upload our project file into that folder and we need to make every file as public using "make public by using ACLS(access contorl lists)".
      -->In the next step copy that url and paste in new tab  our will be displayed.
 -->we need to give unique for our bucket and it should contain small letters.
 -->By default we can Create 100 buckets in aws.
+-->s3 bucket is used to store the appliaction files and used  to deploy web appliaction files only.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-LOAD BALANCER:-
+AWS LOAD BALANCER:-
 ====================
 -->The main aim of Load-Balancer is to control the incoming Traffic and make sure of health checks , to control the traffic we need to add instances to the load balancer.
 -->Request timout->after how much time the instance is reporting
@@ -93,4 +95,13 @@ LOAD BALANCER:-
 -->unhealthy checks
 -->healthy checks
 -->Elastic load balancing service
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+AUTO SCALING:-
+===========================
+Auto Scaling is a service that automatically adjusts the number of instances 
+in a group to match the demand of the application. It allows you to automatically increase or 
+decrease the number of EC2 instances in a group based on the changing needs of your 
+application.
+============================================================================================================
+AWS RDS(relational database):-
+================================
