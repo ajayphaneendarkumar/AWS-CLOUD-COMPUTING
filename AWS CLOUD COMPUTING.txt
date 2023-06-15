@@ -1,3 +1,4 @@
+-->cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
 -->Cloud Computing - totally based on services --servers
 -->server -computer -->it gives the services.
 -->client -computer -->services are taken by client
@@ -11,7 +12,7 @@
      RACK SPACE 
      ALIBABA CLOUD
 -->we are going to work with servers in the cloud.
--->cloud -- the  more resoruces -the less u pay.-->cloud refers to network of servers hosted on internet that allows users to store ,manage and access data.
+-->cloud -- the  more resoruces -the  less u pay.-->cloud refers to network of servers hosted on internet that allows users to store ,manage and access data.
 -->web server --website -- aec.edu.in
 =================================================================================================================================================================
 -->server layers:
@@ -83,7 +84,7 @@ AWS VPC(virtual private cloud):-
 -->s3(simple service storage) bucket -->upload the floder and run the webapplication
      -->after creating s3 bucket ,we need to create one file folder and then we need to upload our project file into that folder and we need to make every file as public using "make public by using ACLS(access contorl lists)".
      -->In the next step copy that url and paste in new tab  our will be displayed.
--->we need to give unique for our bucket and it should contain small letters.
+-->we need to give unique name for our bucket and it should contain small letters.
 -->By default we can Create 100 buckets in aws.
 -->s3 bucket is used to store the appliaction files and used  to deploy web appliaction files only.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
