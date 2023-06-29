@@ -1,4 +1,9 @@
 -->cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
+-->cloud computing benefits:
+         scalability
+         accessibility
+         collabration
+         cost-effective
 -->Cloud Computing - totally based on services --servers
 -->server -computer -->it gives the services.
 -->client -computer -->services are taken by client
