@@ -39,6 +39,8 @@
 -->every server is a Virtual Machine.
 -->Physical Server --100+ virtual machines based on configuration -->rich persons will buy this server
 ======================================================================================================================================
+-->NIST -->national institute of science and technology 
+-->NIST says that cloud should be combination of characteristics ,services and models.
 --> CLOUD CHARACTERISTICS:
 ================================
             there are 5 characteristics
