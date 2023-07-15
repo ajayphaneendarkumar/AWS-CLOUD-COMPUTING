@@ -1,6 +1,7 @@
 -->cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
 -->csp-->cloud service provider
 -->isp-->internet service provider
+-->there is no down time for server.
 -->cloud dont have specific definition it has expalanation-->multiple technologies come and meet in this cloud.
 -->cloud computing benefits:
          scalability
