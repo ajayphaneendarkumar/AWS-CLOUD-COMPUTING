@@ -28,10 +28,10 @@
 -->web server --website -- aec.edu.in
 =================================================================================================================================================================
 -->server layers:
-     website content.
-     software(apache , mean ,react,--web software)
-     operating system of its own version
-     hardware(cpu,ram,storage)
+    -user --developer -- websiter -- python code --they dont know about hardware,os,software to be installed for the deployment.
+    -software(apache , mean ,react,--web software)  -->this we need to install --our responsilibility
+    - operating system of its own version   --- this we need to install ---our responsibility-->PAAS -->system software
+    - hardware(cpu,ram,storage)  -->this called virtual machine -->provided by the cloud-->IAAS
 =================================================================================================================================
 -->ON-PREMISES SERVER:-
   =====================
@@ -60,11 +60,12 @@
 =======================================
 -->CLOUD SERVICES:-
 ======================================
+-->Infrastructure as a service(Iaas)
 -->Software as a service (SaaS)-->Software-as-a-Service (SaaS) is a way of delivering services and applications over the Internet.(netflix,aha,hostar -->these are all related to saas.)
 -->Platform as a service (PaaS)-->PaaS is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet(sreverless services related to paas -->lamba comes under the paas).
--->Infrastructure as a service (IaaS)-->(EC2)
 -->Anything/Everything as a service (XaaS)
 -->Function as a Service (FaaS)
+-->the order of services are IAAS,PAAS,SAAS,XAAS
 ==================================================
 global infrastructure:
 -------------------------------
