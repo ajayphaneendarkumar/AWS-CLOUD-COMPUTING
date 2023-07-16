@@ -43,11 +43,11 @@
 -->NIST -->national institute of science and technology 
 -->NIST says that cloud should be combination of characteristics ,services and models.
 --> CLOUD CHARACTERISTICS:
-================================
+===============================================
             there are 5 characteristics
                  -->on-demand self service
                  -->resoruce pooling --cloud point
-                 -->broad network access
+                 -->broad network access  -- No matterwhere you are , you can access that cloud around the world.
                  -->elasticity --extensions or replicas.
                  -->metered services-pay as you go
 ====================================================
@@ -82,7 +82,7 @@ amazon linux
 -->virtualization is the cloud concept related to pooling and sharing resources.
 =================================================================================================
 AWS VPC(virtual private cloud):-
-------------------------------
+========================================
 -->it is a isolated section of AWS cloud where we can launch aws resoruces in a virtual network that wehave defined.
 -->by using vpc we can communicate with the user or group of users.
 -->vpn(virtual private network)
