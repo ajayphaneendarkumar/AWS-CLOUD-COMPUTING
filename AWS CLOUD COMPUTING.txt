@@ -29,9 +29,13 @@
 =================================================================================================================================================================
 -->server layers:
     -user --developer -- websiter -- python code --they dont know about hardware,os,software to be installed for the deployment.
-    -software(apache , mean ,react,--web software)  -->this we need to install --our responsilibility
-    - operating system of its own version   --- this we need to install ---our responsibility-->PAAS -->system software
+    -software(apache , mean ,react,--web software)  -->SAAS-->Gmail,Outlook
+    - operating system of its own version   -->PAAS -->system software
     - hardware(cpu,ram,storage)  -->this called virtual machine -->provided by the cloud-->IAAS
+
+-->The csp is giving the only hardware is called as IAAS.
+-->The csp is giving the Hardware+os is called as PAAS.
+-->The csp is giving the Hardware + os + apllication software is called as SAAS.
 =================================================================================================================================
 -->ON-PREMISES SERVER:-
   =====================
