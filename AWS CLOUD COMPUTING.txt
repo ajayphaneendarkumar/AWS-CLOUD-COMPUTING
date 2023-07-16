@@ -1,4 +1,5 @@
 -->cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
+-->we can use two types of aws accounts they are root and aws academy accounts.
 -->csp-->cloud service provider
 -->isp-->internet service provider
 -->there is no down time for server.
@@ -71,13 +72,15 @@
 -->Function as a Service (FaaS)
 -->the order of services are IAAS,PAAS,SAAS,XAAS
 ==================================================
-global infrastructure:
+Aws global infrastructure:
 -------------------------------
-AWS regions geo location
-AWS availability zonez AZs min 2
-AWS Data centres min 2
-our resources
-======================================
+AWS global Infrastructure divide into:
+ -->Aws Availability Zone -> AZs
+ -->Aws regions -->regions are not based on any country or territory -->they are based on geographical location.
+ -->Aws datacenters
+-->Aws availability zones and datacenters are connected with high bandwidth , low latency , highly available network cables -->fiber optic cables.
+-->AWS is maintaining 31 launched regions with 99 availability zones.
+================================================================================================================================================
 deploymnet:-
 -------------------------
 EC2-ECC-Elastic compute cloud
