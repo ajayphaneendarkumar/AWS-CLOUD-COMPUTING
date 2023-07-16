@@ -60,8 +60,8 @@
   -->public cloud -->Any one can use this cloud -->aws,azure,google cloud ,oracle cloud
   -->private cloud -->it is only applicable for that particulary area people and they can only use that cloud.(eg:-servers in aditya are accessed by aditya students only)
   -->community cloud -public 
-  -->hybrid cloud --private and public.
-=======================================
+  -->hybrid cloud -- > combination of private and public clouds.
+============================================================================================
 -->CLOUD SERVICES:-
 ======================================
 -->Infrastructure as a service(Iaas)
