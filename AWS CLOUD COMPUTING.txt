@@ -2,6 +2,7 @@
 -->we can use two types of aws accounts they are root and aws academy accounts.
 -->csp-->cloud service provider
 -->isp-->internet service provider
+-->AMI-->Amazon Machine Image.
 -->there is no down time for server.
 -->cloud dont have specific definition it has expalanation-->multiple technologies come and meet in this cloud.
 -->cloud computing benefits:
