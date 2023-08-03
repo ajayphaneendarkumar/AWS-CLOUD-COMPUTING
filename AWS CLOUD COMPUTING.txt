@@ -5,6 +5,7 @@
 -->AMI-->Amazon Machine Image.
 -->there is no down time for server.
 -->cloud dont have specific definition it has expalanation-->multiple technologies come and meet in this cloud.
+---------------------------------------------------------------------------------------------------------------------
 -->cloud computing benefits:
          scalability
          accessibility
@@ -77,7 +78,7 @@
 -->Function as a Service (FaaS)
 -->the order of services are IAAS,PAAS,SAAS,XAAS
 ==================================================
-Aws global infrastructure:
+AWS GLOBAL INFRASTRUCTURE:-
 -------------------------------
 AWS global Infrastructure divide into:
  -->Aws Availability Zone -> AZs
@@ -86,12 +87,15 @@ AWS global Infrastructure divide into:
 -->Aws availability zones and datacenters are connected with high bandwidth , low latency , highly available network cables -->fiber optic cables.
 -->AWS is maintaining 31 launched regions with 99 availability zones.
 ================================================================================================================================================
-deploymnet:-
--------------------------
-EC2-ECC-Elastic compute cloud
-EC2 instance - vm server
-amazon linux
--->there are four regions for Ec2 Instances
+DEPLOYMNET MODELS:-
+=======================================
+-->There are three deployment models:-
+   ->cloud-based deployment-->Everything runs in the cloud.
+   ->on-premises-->Deploy resources using virtualization and management tools.-->It is also called as private cloud deployment.
+   ->hybrid-->In Hybrid , You connect cloud resources to an on-premises infrastructure.
+-->EC2->ECC->Elastic compute cloud
+-->EC2 instance -> In other cloud vendors it is called as vm server.
+-->there are four regions for Ec2 Instances.
 -->virtualization is the cloud concept related to pooling and sharing resources.
 =================================================================================================
 AWS VPC(virtual private cloud):-
