@@ -7,10 +7,10 @@
 -->cloud dont have specific definition it has expalanation-->multiple technologies come and meet in this cloud.
 ---------------------------------------------------------------------------------------------------------------------
 -->cloud computing benefits:
-         scalability
-         accessibility
-         collabration
-         cost-effective
+         ->scalability
+         ->accessibility/flexibility
+         ->collabration / security
+         ->cost-effective
 -->Cloud Computing - totally based on services --servers
 -----------------------------------------------------------------
 ->CLIENT-SERVER MODEL:-
