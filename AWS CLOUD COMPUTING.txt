@@ -11,6 +11,10 @@
          collabration
          cost-effective
 -->Cloud Computing - totally based on services --servers
+-----------------------------------------------------------------
+->CLIENT-SERVER MODEL:-
+---------------------------------------------
+-->(The Client-Server model is about a client that interacts and makes requests to a computer server.)
 -->server -computer -->it gives the services.
 -->client -computer -->services are taken by client
 -->work group -->in this group any one can act as server and client. eg:-sharing a file -->everyone can share it and everyone can access it.
