@@ -10,7 +10,7 @@
          ->scalability
          ->accessibility/flexibility
          ->collabration / security
-         ->cost-effective
+         ->cost-effective/cost Savings.
 -->Cloud Computing - totally based on services --servers
 -----------------------------------------------------------------
 ->CLIENT-SERVER MODEL:-
@@ -89,12 +89,17 @@ AWS global Infrastructure divide into:
 ================================================================================================================================================
 DEPLOYMNET MODELS:-
 =======================================
--->There are three deployment models:-
+-->There are three types of deployment models:-
    ->cloud-based deployment-->Everything runs in the cloud.
    ->on-premises-->Deploy resources using virtualization and management tools.-->It is also called as private cloud deployment.
    ->hybrid-->In Hybrid , You connect cloud resources to an on-premises infrastructure.
+---------------------------------------------------------------------------------------------------------------
+EC2 INSTANCE:-
+============================
+-->EC2 is a virtual server / virtual machine in the Aws cloud.
 -->EC2->ECC->Elastic compute cloud
--->EC2 instance -> In other cloud vendors it is called as vm server.
+-->EC2 instance, In other cloud vendors it is called as vm server.
+-->Why AWS EC2:- ->It makes the process of Increasing and Decreasing of Capacity Easier, EC2 is secure and you only pay for what you need.
 -->there are four regions for Ec2 Instances.
 -->virtualization is the cloud concept related to pooling and sharing resources.
 =================================================================================================
