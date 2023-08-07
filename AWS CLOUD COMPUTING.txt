@@ -6,7 +6,8 @@
 -->there is no down time for server.
 -->cloud dont have specific definition it has expalanation-->multiple technologies come and meet in this cloud.
 ---------------------------------------------------------------------------------------------------------------------
--->cloud computing benefits:
+-->cloud computing benefits:-
+================================
          ->scalability
          ->accessibility/flexibility
          ->collabration / security
@@ -21,6 +22,7 @@
 -->work group -->in this group any one can act as server and client. eg:-sharing a file -->everyone can share it and everyone can access it.
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 -->some of the cloud vendors:-
+===============================
      AWS
      AZURE
      GOOGLE CLOUD
