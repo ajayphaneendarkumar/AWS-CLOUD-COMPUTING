@@ -1,6 +1,7 @@
 INTRODUCTION:-
 ========================
 -->Cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
+-->Cloud Computing - totally based on services --servers.
 -->Cloud --> the  more resoruces-the  less u pay.
 -->Cloud refers to network of servers hosted on internet that allows users to store ,manage and access data.
       OR
@@ -16,11 +17,10 @@ INTRODUCTION:-
 ==============================================================================================================
 CLOUD BENIFITS:-
 ================================
-         ->scalability
-         ->accessibility/flexibility
-         ->collabration / security
-         ->cost-effective/cost Savings.
--->Cloud Computing - totally based on services --servers
+         -->scalability
+         -->accessibility/flexibility
+         -->collabration / security
+         -->cost-effective/cost Savings.
 ================================================================================================================
 ->CLIENT-SERVER MODEL:-
 =================================
