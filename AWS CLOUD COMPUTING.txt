@@ -1,12 +1,20 @@
--->cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
+INTRODUCTION:-
+========================
+-->Cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
+-->Cloud --> the  more resoruces-the  less u pay.
+-->Cloud refers to network of servers hosted on internet that allows users to store ,manage and access data.
+      OR
+-->cloud --rented service 
+         --pooling of the resource
+         --on-demand service
 -->we can use two types of aws accounts they are root and aws academy accounts.
 -->csp-->cloud service provider
 -->isp-->internet service provider
 -->AMI-->Amazon Machine Image.
--->there is no down time for server.
+-->There is no down time for server.
 -->cloud dont have specific definition it has expalanation-->multiple technologies come and meet in this cloud.
----------------------------------------------------------------------------------------------------------------------
--->cloud computing benefits:-
+==============================================================================================================
+CLOUD BENIFITS:-
 ================================
          ->scalability
          ->accessibility/flexibility
@@ -15,42 +23,35 @@
 -->Cloud Computing - totally based on services --servers
 ================================================================================================================
 ->CLIENT-SERVER MODEL:-
----------------------------------------------
--->(The Client-Server model is about a client that interacts and makes requests to a computer server.)
+=================================
+-->The Client-Server model is about a client that interacts and makes requests to a computer server.
 -->server -computer -->it gives the services.
 -->client -computer -->services are taken by client
 -->work group -->in this group any one can act as server and client. eg:-sharing a file -->everyone can share it and everyone can access it.
--------------------------------------------------------------------------------------------------------------------------------------------------------
--->some of the cloud vendors:-
+==================================================================================================================================================
+SOME OF THE CLOUD VENDORS:-
 ===============================
-     AWS
-     AZURE
-     GOOGLE CLOUD
-     ORACLE CLOUD
-     RACK SPACE 
-     ALIBABA CLOUD
+    1. AWS
+    2. AZURE
+    3. GOOGLE CLOUD
+    4. ORACLE CLOUD
+    5. RACK SPACE 
+    6. ALIBABA CLOUD
 -->we are going to work with servers in the cloud.
--->cloud -- the  more resoruces -the  less u pay.
--->cloud refers to network of servers hosted on internet that allows users to store ,manage and access data.
--->cloud --rented service 
-         --pooling of the resource
-         --on-demand service
--->web server --website -- aec.edu.in
 =================================================================================================================================================================
--->SERVER LAYERS:-
+SERVER LAYERS:-
 ============================
-    -->user --developer -- websiter -- python code --they dont know about hardware,os,software to be installed for the deployment.
-    -->software(apache , mean ,react,--web software)  -->SAAS-->Gmail,Outlook
-    -->operating system of its own version   -->PAAS -->system software
-    -->hardware(cpu,ram,storage)  -->this called virtual machine -->provided by the cloud-->IAAS
--->The csp is giving the only hardware is called as IAAS.
--->The csp is giving the Hardware+os is called as PAAS.
--->The csp is giving the Hardware + os + apllication software is called as SAAS.
+-->user --developer -- websiter -- python code --they dont know about hardware,os,software to be installed for the deployment.
+-->software(apache , mean ,react,--web software)  -->SAAS-->Gmail,Outlook
+-->operating system of its own version   -->PAAS -->system software
+-->hardware(cpu,ram,storage)  -->this called virtual machine -->provided by the cloud-->IAAS
+*-->The csp is giving the only hardware is called as IAAS.
+*-->The csp is giving the Hardware+os is called as PAAS.
+*-->The csp is giving the Hardware + os + apllication software is called as SAAS.
 =================================================================================================================================
--->ON-PREMISES SERVER:-
-  =====================
- -->the server which is maintained within the premises is called on-permises server(eg:- servers in aditya are maintained within the college)
-================================================================================================================================================
+ON-PREMISES SERVER:-
+=====================
+-->the server which is maintained within the premises is called on-permises server(eg:- servers in aditya are maintained within the college)
 -->every server is a Virtual Machine.
 -->Physical Server --100+ virtual machines based on configuration -->rich persons will buy this server
 ======================================================================================================================================
@@ -58,45 +59,45 @@
 -->NIST says that cloud should be combination of characteristics ,services and models.
 --> CLOUD CHARACTERISTICS:-
 ===============================================
-            There are 5 characteristics
-                 -->on-demand self service
-                 -->resoruce pooling --cloud point
-                 -->broad network access  -- No matterwhere you are , you can access that cloud around the world.
-                 -->elasticity --extensions or replicas.
-                 -->metered services-pay as you go
+There are 5 characteristics:-
+    -->on-demand self service
+    -->resoruce pooling -->cloud point
+    -->broad network access  -->No matterwhere you are , you can access that cloud around the world.
+    -->elasticity -->extensions or replicas.
+    -->metered services->pay as you go
 ====================================================
--->CLOUD MODELS:-
+CLOUD MODELS:-
 ========================
   -->public cloud -->Any one can use this cloud -->aws,azure,google cloud ,oracle cloud
   -->private cloud -->it is only applicable for that particulary area people and they can only use that cloud.(eg:-servers in aditya are accessed by aditya students only)
   -->community cloud -public 
   -->hybrid cloud -- > combination of private and public clouds.
 ============================================================================================
--->CLOUD SERVICES:-
+CLOUD SERVICES:-
 ======================================
 -->Infrastructure as a service(Iaas)
 -->Software as a service (SaaS)-->Software-as-a-Service (SaaS) is a way of delivering services and applications over the Internet.(netflix,aha,hostar -->these are all related to saas.)
--->Platform as a service (PaaS)-->PaaS is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet(sreverless services related to paas -->lamba comes under the paas).
+-->Platform as a service (PaaS)-->PaaS is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet(sreverless services related to paas -->lambda comes under the paas).
 -->Anything/Everything as a service (XaaS)
 -->Function as a Service (FaaS)
--->the order of services are IAAS,PAAS,SAAS,XAAS
-==================================================
+-->The order of services are IAAS,PAAS,SAAS,XAAS
+==============================================================================================================================================================
 AWS GLOBAL INFRASTRUCTURE:-
--------------------------------
+================================
 AWS global Infrastructure divide into:
  -->Aws Availability Zone -> AZs
  -->Aws regions -->regions are not based on any country or territory -->they are based on geographical location.
  -->Aws datacenters
--->Aws availability zones and datacenters are connected with high bandwidth , low latency , highly available network cables -->fiber optic cables.
--->AWS is maintaining 31 launched regions with 99 availability zones.
+ -->Aws availability zones and datacenters are connected with high bandwidth , low latency , highly available network cables -->fiber optic cables.
+ -->AWS is maintaining 31 launched regions with 99 availability zones.
 ================================================================================================================================================
 DEPLOYMNET MODELS:-
 =======================================
 -->There are three types of deployment models:-
-   ->cloud-based deployment-->Everything runs in the cloud.
-   ->on-premises-->Deploy resources using virtualization and management tools.-->It is also called as private cloud deployment.
-   ->hybrid-->In Hybrid , You connect cloud resources to an on-premises infrastructure.
----------------------------------------------------------------------------------------------------------------
+   -->CLOUD BASED DEPLOYMENT-->Everything runs in the cloud.
+   -->ON-PREMISES DEPLOYMENT-->Deploy resources using virtualization and management tools.-->It is also called as private cloud deployment.
+   -->HYBRID DEPLOYMENT    -->In Hybrid , You connect cloud resources to an on-premises infrastructure.
+=================================================================================================================================================
 EC2 INSTANCE:-
 ============================
 -->EC2 is a virtual server / virtual machine in the Aws cloud.
@@ -105,8 +106,10 @@ EC2 INSTANCE:-
 -->Why AWS EC2:- ->It makes the process of Increasing and Decreasing of Capacity Easier, EC2 is secure and you only pay for what you need.
 -->there are four regions for Ec2 Instances.
 -->virtualization is the cloud concept related to pooling and sharing resources.
-->
 =================================================================================================
+TYPES OF INSTANCES:-
+===========================
+-->
 AWS VPC(virtual private cloud):-
 ========================================
 -->it is a isolated section of AWS cloud where we can launch aws resoruces in a virtual network that wehave defined.
