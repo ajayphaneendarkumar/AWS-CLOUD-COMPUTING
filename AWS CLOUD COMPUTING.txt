@@ -1,4 +1,4 @@
-INTRODUCTION:-
+ INTRODUCTION:-
 ========================
 -->Cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
 -->Cloud Computing - totally based on services --servers.
@@ -109,11 +109,18 @@ EC2 INSTANCE:-
 =================================================================================================
 TYPES OF INSTANCES:-
 ===========================
--->
+-->There are different instances that are used based on the needs. -->needs can be like requirement for computer , memory, storage.
+-->They are:
+     1.General Purpose Instance:- It balances computing, memory and Networking resources.
+     2.Compute optimized Instance:- There is need for high compute.
+     3.Memory optimized Instance:- This type of Instance  can deliver large dataset workloads fast.
+     4.Accelerated Computing Instance:- This type of Instance uses hardware Accelerators.
+     5.Storage optimized Instance.
+===============================================================================================================================================================
 AWS VPC(virtual private cloud):-
 ========================================
--->it is a isolated section of AWS cloud where we can launch aws resoruces in a virtual network that wehave defined.
--->by using vpc we can communicate with the user or group of users.
+-->It is a isolated section of AWS cloud where we can launch aws resoruces in a virtual network that we have defined.
+-->By using vpc we can communicate with the user or group of users.
 -->vpn(virtual private network)
 -->To create VPC WE NEED TO SETUP FOLLOWING ONES:-
       -->create vpc
@@ -121,7 +128,7 @@ AWS VPC(virtual private cloud):-
       -->create internet gateways
       -->create Route Tables
 -->if we create two subnets one with public ip and other with private ip then use NAT to connect to the internet for updates.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+=================================================================================================================================================================
  AWS S3(simple service storage bucket):-
  ==========================================
 -->s3(simple service storage) bucket -->upload the floder and run the webapplication
@@ -130,7 +137,7 @@ AWS VPC(virtual private cloud):-
 -->we need to give unique name for our bucket and it should contain small letters.
 -->By default we can Create 100 buckets in aws.
 -->s3 bucket is used to store the appliaction files and used  to deploy web appliaction files only.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+===============================================================================================================================================================
 AWS LOAD BALANCER:-
 ====================
 -->The main aim of Load-Balancer is to control the incoming Traffic and make sure of health checks , to control the traffic we need to add instances to the load balancer.
