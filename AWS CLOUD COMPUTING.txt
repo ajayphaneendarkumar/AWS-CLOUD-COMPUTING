@@ -147,12 +147,14 @@ AWS LOAD BALANCER:-
 -->healthy checks
 -->Elastic load balancing service
 =================================================================================================================================================================
-AUTO SCALING:-
+AWS AUTO SCALING:-
 ===========================
-Auto Scaling is a service that automatically adjusts the number of instances 
-in a group to match the demand of the application. It allows you to automatically increase or 
-decrease the number of EC2 instances in a group based on the changing needs of your 
-application.
-============================================================================================================
+-->Scaling is about only using the resources that you need.
+-->AWS AUTO SCALING is a service that automatically adjsuts the number of instances to match the demand of the application.
+-->It Automatically increase or decrease the instances based on the reqiurement or need to match the demand of the application
+-->Servers can get more requests than they can handle.
+-->Too many requests can cause timeouts and outages.
+-->AWS EC2 Auto Scaling allows you to add or remove EC2 instances automatically in order to match the demand of the application.
+==============================================================================================================================================================
 AWS RDS(relational database):-
 ================================
