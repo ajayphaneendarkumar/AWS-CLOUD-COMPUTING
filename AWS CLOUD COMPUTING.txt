@@ -14,7 +14,7 @@
 -->AMI-->Amazon Machine Image.
 -->There is no down time for server.
 -->cloud dont have specific definition it has expalanation-->multiple technologies come and meet in this cloud.
-==============================================================================================================
+=================================================================================================================================================================
 CLOUD BENIFITS:-
 ================================
          -->scalability
@@ -42,13 +42,13 @@ SOME OF THE CLOUD VENDORS:-
 SERVER LAYERS:-
 ============================
 -->user --developer -- websiter -- python code --they dont know about hardware,os,software to be installed for the deployment.
--->software(apache , mean ,react,--web software)  -->SAAS-->Gmail,Outlook
+-->software(apache , mean ,react,--web software) -->SAAS-->Gmail,Outlook
 -->operating system of its own version   -->PAAS -->system software
 -->hardware(cpu,ram,storage)  -->this called virtual machine -->provided by the cloud-->IAAS
 *-->The csp is giving the only hardware is called as IAAS.
-*-->The csp is giving the Hardware+os is called as PAAS.
-*-->The csp is giving the Hardware + os + apllication software is called as SAAS.
-=================================================================================================================================
+*-->The csp is giving the Hardware + os is called as PAAS.
+*-->The csp is giving the Hardware + os + aplication software is called as SAAS.
+================================================================================================================================================================
 ON-PREMISES SERVER:-
 =====================
 -->the server which is maintained within the premises is called on-permises server(eg:- servers in aditya are maintained within the college)
@@ -139,7 +139,7 @@ AWS VPC(virtual private cloud):-
 -->s3 bucket is used to store the appliaction files and used  to deploy web appliaction files only.
 ===============================================================================================================================================================
 AWS LOAD BALANCER:-
-====================
+=========================================
 -->The main aim of Load-Balancer is to control the incoming Traffic and make sure of health checks , to control the traffic we need to add instances to the load balancer.
 -->Request timout->after how much time the instance is reporting
 -->interval -->after every 5 sec or 10 sec the instances will have health checks
@@ -148,7 +148,7 @@ AWS LOAD BALANCER:-
 -->Elastic load balancing service
 =================================================================================================================================================================
 AWS AUTO SCALING:-
-===========================
+=========================================
 -->Scaling is about only using the resources that you need.
 -->AWS AUTO SCALING is a service that automatically adjsuts the number of instances to match the demand of the application.
 -->It Automatically increase or decrease the instances based on the reqiurement or need to match the demand of the application.
@@ -159,4 +159,4 @@ AWS AUTO SCALING:-
 -->AWS EC2 Auto Scaling allows you to add or remove EC2 instances automatically in order to match the demand of the application.
 ==============================================================================================================================================================
 AWS RDS(relational database):-
-================================
+=========================================
