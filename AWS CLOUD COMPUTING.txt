@@ -140,19 +140,21 @@ AWS VPC(virtual private cloud):-
 ===============================================================================================================================================================
 AWS LOAD BALANCER:-
 =========================================
--->The main aim of Load-Balancer is to control the incoming Traffic and make sure of health checks , to control the traffic we need to add instances to the load balancer.
--->Request timout->after how much time the instance is reporting
--->interval -->after every 5 sec or 10 sec the instances will have health checks
--->unhealthy checks
--->healthy checks
--->Elastic load balancing service
+-->The main Aim of Load-Balancer is to control the incoming web Traffic and make sure of health checks , to control the web traffic we need to add instances to the Load balancer.
+-->Service that we used is ->"Elastic load balancing service".
+-->The Load balancer is a single point of contact for incoming web traffic.
+-->The balancer accepts requests and directs them to the appropriate instances.
+-->Request timout->after how much time the instance is reporting.
+-->interval -->after every 5 sec or 10 sec the instances will have health checks.
+-->unhealthy checks.
+-->healthy checks.
 =================================================================================================================================================================
 AWS AUTO SCALING:-
 =========================================
 -->Scaling is about only using the resources that you need.
 -->AWS AUTO SCALING is a service that automatically adjsuts the number of instances to match the demand of the application.
 -->It Automatically increase or decrease the instances based on the reqiurement or need to match the demand of the application.
--->WHY AWS EC2 AUTO SCALING:-
+-->WHY AWS EC2 AUTO SCALING?:-
 -----------------------------------
 -->Servers can get more requests than they can handle.
 -->Too many requests can cause timeouts and outages.
