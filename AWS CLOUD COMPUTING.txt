@@ -22,7 +22,7 @@ CLOUD BENIFITS:-
          -->collabration / security
          -->cost-effective/cost Savings.
 ================================================================================================================
-->CLIENT-SERVER MODEL:-
+CLIENT-SERVER MODEL:-
 =================================
 -->The Client-Server model is about a client that interacts and makes requests to a computer server.
 -->server -computer -->it gives the services.
