@@ -97,7 +97,7 @@ DEPLOYMNET MODELS:-
    -->CLOUD BASED DEPLOYMENT-->Everything runs in the cloud.
    -->ON-PREMISES DEPLOYMENT-->Deploy resources using virtualization and management tools.-->It is also called as private cloud deployment.
    -->HYBRID DEPLOYMENT    -->In Hybrid , You connect cloud resources to an on-premises infrastructure.
-=================================================================================================================================================
+=================================================================================================================================================================
 EC2 INSTANCE:-
 ============================
 -->EC2 is a virtual server / virtual machine in the Aws cloud.
@@ -106,7 +106,8 @@ EC2 INSTANCE:-
 -->Why AWS EC2:- ->It makes the process of Increasing and Decreasing of Capacity Easier, EC2 is secure and you only pay for what you need.
 -->there are four regions for Ec2 Instances.
 -->virtualization is the cloud concept related to pooling and sharing resources.
-=================================================================================================
+-->pooling means combining two or more things at a time.
+==============================================================================================================================================================
 TYPES OF INSTANCES:-
 ===========================
 -->There are different instances that are used based on the needs. -->needs can be like requirement for computer , memory, storage.
