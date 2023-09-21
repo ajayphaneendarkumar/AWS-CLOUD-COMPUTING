@@ -66,21 +66,36 @@ There are 5 characteristics:-
     -->elasticity -->extensions or replicas.
     -->metered services->pay as you go
 ====================================================
-CLOUD MODELS:-
+AWS CLOUD MODELS:-
 ========================
-  -->public cloud -->Any one can use this cloud -->aws,azure,google cloud ,oracle cloud
-  -->private cloud -->it is only applicable for that particulary area people and they can only use that cloud.(eg:-servers in aditya are accessed by aditya students only)
+  -->public cloud -->aws,azure,google cloud ,oracle cloud-->It is built over the internet and can be acccessed by any user who has paid for the service.
+  -->private cloud -->it is built within the domain of intranet and owned by single organization.
   -->community cloud -public 
-  -->hybrid cloud -- > combination of private and public clouds.
-============================================================================================
-CLOUD SERVICES:-
+  -->hybrid cloud -- > it is built with both private and public clouds -->hybrid cloud provides access to clients , the partner network and third parties.
+===============================================================================================================================================================
+AWS CLOUD SERVICES MODELS:-
 ======================================
--->Infrastructure as a service(Iaas)
--->Software as a service (SaaS)-->Software-as-a-Service (SaaS) is a way of delivering services and applications over the Internet.(netflix,aha,hostar -->these are all related to saas.)
--->Platform as a service (PaaS)-->PaaS is a category of cloud computing that provides a platform and environment to allow developers to build applications and services over the internet(sreverless services related to paas -->lambda comes under the paas).
--->Anything/Everything as a service (XaaS)
--->Function as a Service (FaaS)
--->The order of services are IAAS,PAAS,SAAS,XAAS
+There are mainly three services in cloud computing they are:
+-->Infrastructure as a Service (IAAS):
+     -->it is used by network architects.
+     -->it gives access to resources like virtual machine and virtual storage.
+     -->it is a service model that provides virtualized resources over the internet.
+     -->The csp is giving the only hardware is called as IAAS.
+     -->it is pouplar among developers and researchers.
+-->Platform as a service(PAAS):
+     -->it is used by developers.
+     -->it gives access to run time environment to deployment and development tools for applications.
+     -->it is a cloud computing model that delivers tools that are used for development of applications.
+     -->The csp is giving the only hardware + os is called as "PAAS".
+     -->it is popular among developers who focus on the development of apps and scripts.
+-->Software as a service(SAAS):
+     -->it is used by end users.
+     -->it gives access to the end user. 
+     -->it is service model in cloud computing that hosts software to make it available to clients.
+     -->the csp is giving the only hardware + os+ application software is called as "SAAS".
+     -->it is popular among consumers and companies.
+-->Anything or everything as a Service(XAAS)
+-->Function as a service(FAAS).
 ==============================================================================================================================================================
 AWS GLOBAL INFRASTRUCTURE:-
 ================================
