@@ -1,4 +1,4 @@
- INTRODUCTION:-
+  INTRODUCTION:-
 ========================
 -->Cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
 -->Cloud Computing - totally based on services --servers.
@@ -156,7 +156,7 @@ AWS VPC(virtual private cloud):-
 ===============================================================================================================================================================
 AWS LOAD BALANCER:-
 =========================================
--->The main Aim of Load-Balancer is to control the incoming web Traffic and make sure of health checks , to control the web traffic we need to add instances to the Load balancer.
+-->The main Aim of Load-Balancer is to control the incoming web Traffic and make sure of health checks , to control the incoming  web traffic we need to add instances to the Load balancer.
 -->Service that we used is ->"Elastic load balancing service".
 -->The Load balancer is a single point of contact for incoming web traffic.
 -->The balancer accepts requests and directs them to the appropriate instances.
@@ -165,7 +165,7 @@ AWS LOAD BALANCER:-
 -->unhealthy checks.
 -->healthy checks.
 =================================================================================================================================================================
-AWS AUTO SCALING:-
+AWS EC2 AUTO SCALING:-
 =========================================
 -->Scaling is about only using the resources that you need.
 -->AWS AUTO SCALING is a service that automatically adjsuts the number of instances to match the demand of the application.
