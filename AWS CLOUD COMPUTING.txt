@@ -1,4 +1,4 @@
-  INTRODUCTION:-
+   INTRODUCTION:-
 ========================
 -->Cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
 -->Cloud Computing - totally based on services --servers.
