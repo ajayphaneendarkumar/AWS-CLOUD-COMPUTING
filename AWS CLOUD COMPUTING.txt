@@ -45,15 +45,12 @@ SERVER LAYERS:-
 -->software(apache , mean ,react,--web software) -->SAAS-->Gmail,Outlook
 -->operating system of its own version   -->PAAS -->system software
 -->hardware(cpu,ram,storage)  -->this called virtual machine -->provided by the cloud-->IAAS
-*-->The csp is giving the only hardware is called as IAAS.
-*-->The csp is giving the Hardware + os is called as PAAS.
-*-->The csp is giving the Hardware + os + aplication software is called as SAAS.
 ================================================================================================================================================================
 ON-PREMISES SERVER:-
 =====================
--->the server which is maintained within the premises is called on-permises server(eg:- servers in aditya are maintained within the college)
+-->The server which is maintained within the premises is called on-permises server(eg:- servers in aditya are maintained within the college)
 -->every server is a Virtual Machine.
--->Physical Server --100+ virtual machines based on configuration -->rich persons will buy this server
+-->Physical Server --100+ virtual machines based on configuration -->rich persons will buy this server.
 ======================================================================================================================================
 -->NIST -->National Institute of Science and Technology 
 -->NIST says that cloud should be combination of characteristics ,services and models.
@@ -102,7 +99,7 @@ AWS GLOBAL INFRASTRUCTURE:-
 AWS global Infrastructure divide into:
  -->Aws Availability Zone -> AZs
  -->Aws regions -->regions are not based on any country or territory -->they are based on geographical location.
- -->Aws datacenters
+ -->Aws datacenters-->server rooms.
  -->Aws availability zones and datacenters are connected with high bandwidth , low latency , highly available network cables -->fiber optic cables.
  -->AWS is maintaining 31 launched regions with 99 availability zones.
 ================================================================================================================================================
