@@ -173,5 +173,6 @@ AWS EC2 AUTO SCALING:-
 -->Too many requests can cause timeouts and outages.
 -->AWS EC2 Auto Scaling allows you to add or remove EC2 instances automatically in order to match the demand of the application.
 ==============================================================================================================================================================
-AWS RDS(relational database):-
-=========================================
+AWS SQS:-
+===========
+-->AWS 
