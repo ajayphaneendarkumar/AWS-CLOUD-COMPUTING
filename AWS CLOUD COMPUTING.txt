@@ -116,6 +116,7 @@ EC2 INSTANCE:-
 -->EC2->ECC->Elastic compute cloud
 -->EC2 instance, In other cloud vendors it is called as vm server.
 -->Why AWS EC2:- ->It makes the process of Increasing and Decreasing of Capacity Easier, EC2 is secure and you only pay for what you need.
+      -->it is flexible , reliable, scalable,etc...
 -->there are four regions for Ec2 Instances.
 -->virtualization is the cloud concept related to pooling and sharing resources.
 -->pooling means combining two or more things at a time.
@@ -175,4 +176,12 @@ AWS EC2 AUTO SCALING:-
 ==============================================================================================================================================================
 AWS SQS:-
 ===========
--->AWS 
+-->AWS Simple Queue Service is also Known as AWS SQS.
+-->SQS is a message Queuing service.
+-->It Exchanges and stores messages  between software components.
+-->The service addd messages LIKE in a Queue.
+================================================================================================================================================================
+AWS CLOUD LAMBDA:-
+===================
+--->
+
