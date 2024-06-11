@@ -183,5 +183,14 @@ AWS SQS:-
 ================================================================================================================================================================
 AWS CLOUD LAMBDA:-
 ===================
---->
+--->AWS Lambda is a serverless compute service.
+--->This service allows you to run code wihtout needing to think about servers.
+--->You only pay for the compute time that you use.
+HOW DOES AWS LAMBDA WORKS:
+--------------------------
+-->Deploy your code to the Lambda.
+-->Make the code ready to trigger an event.
+-->The code runs only when triggered.
+-->pay only when your code is running.
+=================================================================================================================================================================
 
