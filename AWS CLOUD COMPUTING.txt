@@ -193,4 +193,7 @@ HOW DOES AWS LAMBDA WORKS:
 -->The code runs only when triggered.
 -->pay only when your code is running.
 =================================================================================================================================================================
-
+AWS EKS:-
+============
+-->AWS EKS Stands for Elastic Kubernetes Service.
+-->
