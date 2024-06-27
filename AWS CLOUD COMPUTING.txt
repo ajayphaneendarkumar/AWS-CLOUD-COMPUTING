@@ -193,4 +193,13 @@ HOW DOES AWS LAMBDA WORKS:
 -->The code runs only when triggered.
 -->pay only when your code is running.
 =================================================================================================================================================================
-
+AWS EKS:-
+===========
+-->AWS Elastic Kubernetes service is also known as AWS EKS.
+-->EKS is a managed service that lets you run kubernetes on AWS.
+-->it is built for scaling with kubernetes.
+ What is Kuberenetes?
+----------------------
+-->Kubernetes is a open-source software.
+-->it helps you deploy and manage containerized applications.
+-->it has a large community.
