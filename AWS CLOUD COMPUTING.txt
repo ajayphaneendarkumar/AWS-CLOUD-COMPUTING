@@ -183,23 +183,37 @@ AWS SQS:-
 ================================================================================================================================================================
 AWS CLOUD LAMBDA:-
 ===================
---->AWS Lambda is a serverless compute service.
---->This service allows you to run code wihtout needing to think about servers.
---->You only pay for the compute time that you use.
+-->AWS Lambda is a serverless compute service.
+-->This service allows you to run code wihtout needing to think about servers.(you only think about the code)
+-->You only pay for the compute time that you use.
 HOW DOES AWS LAMBDA WORKS:
 --------------------------
 -->Deploy your code to the Lambda.
 -->Make the code ready to trigger an event.
 -->The code runs only when triggered.
 -->pay only when your code is running.
+--------------------------------------------
+Benefits of AWS Lambda:-
+-----------------------
+->No need for managing servers
+->Automatic Scaling
+->Pay-as-you-go-pricing
+->performance optimization
 =================================================================================================================================================================
-AWS EKS:-
-===========
+AWS ELASTCIC KUBERNETES SERVICE:-
+====================================
 -->AWS Elastic Kubernetes service is also known as AWS EKS.
 -->EKS is a managed service that lets you run kubernetes on AWS.
--->it is built for scaling with kubernetes.
+-->It is built for scaling with kubernetes.
  What is Kuberenetes?
 ----------------------
 -->Kubernetes is a open-source software.
--->it helps you deploy and manage containerized applications.
--->it has a large community.
+-->It helps you deploy and manage containerized applications.
+-->It has a large community.
+---------------------------------------------------------------------
+EKS Benefits:-
+---------------
+->AWS service integration
+->kubernetes cost saving
+->automated kubernetes control plane security
+================================================================================================================================================================
