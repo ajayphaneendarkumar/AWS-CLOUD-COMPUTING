@@ -217,3 +217,10 @@ EKS Benefits:-
 ->kubernetes cost saving
 ->automated kubernetes control plane security
 ================================================================================================================================================================
+AWS CLOUD FARGATE:-
+================
+-->AWS Fargate is a serverless compute service.
+-->Fargate has pas-as-you-go-pricing model.
+-->It helps to deploy and manage Applications.
+-->Fargate manage the infrastructure for you.
+===============================================================================================================================================================
