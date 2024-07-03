@@ -223,4 +223,26 @@ AWS CLOUD FARGATE:-
 -->Fargate has pas-as-you-go-pricing model.
 -->It helps to deploy and manage Applications.
 -->Fargate manage the infrastructure for you.
+-->Fargate can be used along with both ECS(Elastic compute service) and EKS(Elastic Kubernetes Service) .
 ===============================================================================================================================================================
+AWS Elastic Beanstack:-
+=========================
+-->Elastic beanstack is a web infrastructure management service(Platform as a service).
+-->It allows Quick Deployment of your application.
+-->It Reduces Management complexity.
+-->keeps control in your hands
+         -->Choose your instance type.
+         -->Choose your Database.
+         -->set and adjust auto scaling.
+         -->update your application.
+         -->Access server log files.
+         -->enable HTTPS on a load balancer.
+-->Elastic  Beanstack supports various platforms such as:
+         -->java
+         -->Docker
+         -->PHP
+         -->Java with Tomcat
+         -->python
+         -->Ruby
+         -->.Net
+================================================================================================================================================================
