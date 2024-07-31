@@ -248,4 +248,17 @@ AWS Elastic Beanstack:-
 ================================================================================================================================================================
 AWS ROUTE 53:-
 =====================
-AWS ROUTE 53 is a 
+AWS ROUTE 53 is a Highly Available and Scalable Cloud Domain Name System(DNS) web service. It is essential for conversion of user friendly domain names in to ip addresses so that internet communication can proceed without difficulties. The Following are some of the main features explaning on how aws route 53 functions well:
+ -->Domain Registration and Management.
+ -->Traffic Routing and Load Balancing.
+ -->Global DNS Resolution
+
+Benefits and Features of AWS Route 53:
+----------------------------------------
+  -->Highly Reilable
+  -->Scalable
+  -->Easy to use
+  -->Secure
+  -->Flexible
+  -->Health Check
+==================================================================================================================================================================
