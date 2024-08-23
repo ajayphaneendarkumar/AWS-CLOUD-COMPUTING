@@ -143,14 +143,16 @@ AWS VPC(virtual private cloud):-
       -->create Route Tables
 -->if we create two subnets one with public ip and other with private ip then use NAT to connect to the internet for updates.
 =================================================================================================================================================================
- AWS S3(simple service storage bucket):-
+ AWS S3(simple  storage service bucket):-
  ==========================================
--->s3(simple service storage) bucket -->upload the floder and run the webapplication
+-->s3(simple  storage service) bucket -->upload the floder and run the webapplication
      -->after creating s3 bucket ,we need to create one file folder and then we need to upload our project file into that folder and we need to make every file as public using "make public by using ACLS(access contorl lists)".
-     -->In the next step copy that url and paste in new tab  our will be displayed.
+     -->In the next step copy that url and paste in new tab  our files will be displayed.
 -->we need to give unique name for our bucket and it should contain small letters.
 -->By default we can Create 100 buckets in aws.
--->s3 bucket is used to store the appliaction files and used  to deploy web appliaction files only.
+-->We can upload any type of file.
+-->We can upload maximum of 5TB storage files.
+-->In s3 Data stores as Objects.
 ===============================================================================================================================================================
 AWS LOAD BALANCER:-
 =========================================
