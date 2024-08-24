@@ -276,4 +276,17 @@ Aws RDS(Relational Database Service):-
        -->postgreSQL
        -->AWS Aurora
        -->Oracle database.
+       -->Maria DataBase.
+==================================================================================================================================================================
+AWS Dynamo DB:-
+================
+-->AWS DynamoDB is a non-relational, NoSQL Database.
+-->It is a Serverless Database.
+-->DynamoDB is a High Performance Service.
+What is Non-relational database:-
+----------------------------------
+-->One of the structure types of the non-relational databse is Key-value pairs.
+-->Data key represents an item, and data value represents that item attributes.
+-->Each item can contain different attributes.
+-->We can remove any attribute from any item at any time.
 ==================================================================================================================================================================
