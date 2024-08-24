@@ -264,6 +264,16 @@ Benefits and Features of AWS Route 53:
   -->Flexible
   -->Health Check
 ==================================================================================================================================================================
-Aws RDS(Relational Databases):-
-==================================
--->
+Aws RDS(Relational Database Service):-
+=====================================
+-->Aws RDS is also Known as Aws Relational Database Service.
+-->RDS is a service that automates database tasks.
+-->It enables running Relational Databases in Aws Cloud.
+-->Aws RDS helps you complete administrative tasks faster.
+-->Relational database commonly use sql to store and query data.
+-->RDS supports following database engines:
+       -->MySQL
+       -->postgreSQL
+       -->AWS Aurora
+       -->Oracle database.
+==================================================================================================================================================================
