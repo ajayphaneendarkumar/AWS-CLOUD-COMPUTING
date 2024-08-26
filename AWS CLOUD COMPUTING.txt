@@ -290,3 +290,12 @@ What is Non-relational database:-
 -->Each item can contain different attributes.
 -->We can remove any attribute from any item at any time.
 ==================================================================================================================================================================
+Difference Between Aws RDS and Aws DynamoDB:-
+=============================================
+         RDS                                                        DynamoDB
+      ------------                                              ----------------
+-->Supports Complex Data                                     -->Supports Simple Structured Data
+-->Stores Data in database tables                            -->Stores data in documents
+-->More Expensive than AWS DynamoDB                          -->Cheaper Than AWS RDS
+-->Slower than AWS DynamoDB                                  -->Faster Than AWS RDS.
+==================================================================================================================================================================
