@@ -131,17 +131,23 @@ TYPES OF INSTANCES:-
      4.Accelerated Computing Instance:- This type of Instance uses hardware Accelerators.
      5.Storage optimized Instance.
 ===============================================================================================================================================================
-AWS VPC(virtual private cloud):-
-========================================
--->It is a isolated section of AWS cloud where we can launch aws resoruces in a virtual network that we have defined.
--->By using vpc we can communicate with the user or group of users.
--->vpn(virtual private network)
--->To create VPC WE NEED TO SETUP FOLLOWING ONES:-
+AWS NETWORKING:-
+====================================
+    AWS VPC(virtual private cloud):-
+    ========================================
+    -->It is a isolated section of AWS cloud where we can launch aws resoruces in a virtual network that we have defined.
+    -->By using vpc we can communicate with the user or group of users.
+    -->vpn(virtual private network)
+    -->To create VPC WE NEED TO SETUP FOLLOWING ONES:-
       -->create vpc
       -->create Subnets
       -->create internet gateways
       -->create Route Tables
--->if we create two subnets one with public ip and other with private ip then use NAT to connect to the internet for updates.
+     -->if we create two subnets one with public ip and other with private ip then use NAT to connect to the internet for updates.
+   ----------------------------------------------------------------------------------------------------------------------------------
+   Internet Gateway:-
+   ===================
+   -->
 =================================================================================================================================================================
  AWS S3(simple  storage service bucket):-
  ==========================================
