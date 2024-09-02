@@ -3,8 +3,8 @@ INTRODUCTION:-
 -->Cloud computing is the on-demand delivery of computer power,storage,database ,applications and other It resoures via internet with pay-as-you-go pricing.
 -->Cloud Computing - totally based on services --servers.
 -->Cloud --> the  more resoruces-the  less u pay.
--->Cloud refers to network of servers hosted on internet that allows users to store ,manage and access data.
-      OR
+-->Cloud refers to network of servers hosted on internet that allows users to store ,manage and access data over the internet rather than on a local hard drive or physical Server.
+               OR
 -->cloud --rented service 
          --pooling of the resource
          --on-demand service
