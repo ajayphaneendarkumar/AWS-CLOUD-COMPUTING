@@ -157,6 +157,23 @@ AWS NETWORKING:-
    -->virtual Private Gateway is used to access private resources in the vpc.
    -->It has extra layers of  protection.
    -->The virtual private gateway encrypts the internet traffic , keeping it protected.
+ --------------------------------------------------------------------------------------------------------------------------------------------
+  Subnets:-
+  =============
+  -->Subnet is a Section of VPC.
+  -->The Subnet Allows you to group resources.
+  -->The Grouping can have different security needs.
+  -->You can have both public and private subnets.
+ ---------------------------------------------------------------------------------------------------------------------------------------------
+ Public Subnet:-
+ ================
+ -->Public Subnets have Resources that the public can access.
+ For example: compnay website like w3schhols.com
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Private Subnets:-
+===============
+-->private Subnets have resources that can only access through the private Network.
+For example: database hloding customer data.
 =================================================================================================================================================================
  AWS S3(simple  storage service bucket):-
  ==========================================
