@@ -147,7 +147,16 @@ AWS NETWORKING:-
    ----------------------------------------------------------------------------------------------------------------------------------
    Internet Gateway:-
    ===================
-   -->
+   -->Internet gateway act as Door between the vpc and internet.
+   -->Wihtout Internet gateway we cannnot Access resources in VPC.
+   -->public traffic can be allowed to your VPC.
+   -->The Traffic is allowed by an Internet gateway.
+ -------------------------------------------------------------------------------------------------------------------------------------------
+   Virtual Private Gateway:-
+  =============================
+   -->virtual Private Gateway is used to access private resources in the vpc.
+   -->It has extra layers of  protection.
+   -->The virtual private gateway encrypts the internet traffic , keeping it protected.
 =================================================================================================================================================================
  AWS S3(simple  storage service bucket):-
  ==========================================
