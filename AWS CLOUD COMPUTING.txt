@@ -259,8 +259,8 @@ AWS CLOUD FARGATE:-
 -->Fargate manage the infrastructure for you.
 -->Fargate can be used along with both ECS(Elastic compute service) and EKS(Elastic Kubernetes Service) .
 ===============================================================================================================================================================
-AWS Elastic Beanstack:-
-=========================
+AWS Elastic Beanstack(EBS):-
+============================
 -->Elastic beanstack is a web infrastructure management service(Platform as a service).
 -->It allows Quick Deployment of your application.
 -->It Reduces Management complexity.
@@ -330,4 +330,12 @@ Difference Between Aws RDS and Aws DynamoDB:-
 -->Stores Data in database tables                            -->Stores data in documents
 -->More Expensive than AWS DynamoDB                          -->Cheaper Than AWS RDS
 -->Slower than AWS DynamoDB                                  -->Faster Than AWS RDS.
+==================================================================================================================================================================
+AWS EFS(ELASTIC FILE SYSTEM):-
+==============================
+-->AWS EFS is also Called as AWS Elastic File System.
+-->Data in EFS is accessed via Filepaths.
+-->Compared to AWS EBS , AWS EFS saves the data in many Availability Zones.
+-->It is ideal if many services need to access the same data at the same time.
+-->Automatically scales.
 ==================================================================================================================================================================
