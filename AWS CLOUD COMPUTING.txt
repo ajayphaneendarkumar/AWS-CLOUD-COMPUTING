@@ -339,3 +339,15 @@ AWS EFS(ELASTIC FILE SYSTEM):-
 -->It is ideal if many services need to access the same data at the same time.
 -->Automatically scales.
 ==================================================================================================================================================================
+AWS CLOUD PRICING MODELS :-
+===========================
+-->AWS Cloud has many different pay-as-you-go pricing Options:
+  -->Pay for what you use.
+  -->pay less when you Reserve.
+  -->pay less with volume based discount When you use more.
+  -->AWS Pricing Calculator.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AWS BILLING DASHBOARDS:-
+============================
+
+
