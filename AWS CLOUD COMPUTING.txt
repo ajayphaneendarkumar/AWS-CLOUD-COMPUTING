@@ -347,7 +347,8 @@ AWS CLOUD PRICING MODELS :-
   -->pay less with volume based discount When you use more.
   -->AWS Pricing Calculator.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-AWS BILLING DASHBOARDS:-
-============================
+AWS CLOUD WATCH:-
+======================
+-->
 
 
