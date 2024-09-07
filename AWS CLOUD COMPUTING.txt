@@ -346,9 +346,20 @@ AWS CLOUD PRICING MODELS :-
   -->pay less when you Reserve.
   -->pay less with volume based discount When you use more.
   -->AWS Pricing Calculator.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+==================================================================================================================================================================
 AWS CLOUD WATCH:-
 ======================
--->
+-->AWS Cloud Watch is a Cloud Monitoring and Management Service.
+-->Cloud Watch lets you monitor your resources.
+-->It is a web based Service.
+-->Configure the service to monitor and set alarms based on your metrics.
+---------------------------------------------------------------------------
+CLOUD WATCH ALARMS:-
+---------------------
+-->Cloud Watch lets you Create Automatic alarms.
+-->Configure alarms as you like.
+-->Alarms are triggered at thresholds defined by you.
+-->Alarms are used to control Resources.
+==================================================================================================================================================================
 
 
